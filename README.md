@@ -12,6 +12,7 @@
   <li>🔬 Focus: macOS authorization & LPE, Growtopia & CS:GO security models, crypto & NLP system abuse</li>
   <li>🛠️ Stack: C#, JavaScript, TypeScript, PHP, Node.js | LLDB, Frida, clang/LLVM</li>
   <li>⚙️ Backend: secure APIs, real-time systems, auth flows, performance-driven services</li>
+  <li>🚀 Research Interests & Goals: 2012 phenomenon theories, <strong>space science & technologies</strong>, and <strong>automated space analysis systems</strong></li>
   <li>🎵 Favorite Viral: Charlie Bit Me (Remix) — 2007</li>
   <li>❤️ Motivation: Kellie</li>
   <li>📫 Contact: <a href="mailto:aliyabuz30@gmail.com">aliyabuz30@gmail.com</a></li>
