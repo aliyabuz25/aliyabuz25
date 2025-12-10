@@ -2,21 +2,22 @@
   Ali Yabuz <span style="font-weight:400; opacity:0.7;">(ArbitaryMann)</span>
 </h1>
 
-<p style="font-size:15px; line-height:1.6; max-width:860px; opacity:0.9;">
+<p style="font-size:15px; line-height:1.6; max-width:880px; opacity:0.92;">
   Security-focused software developer specializing in 
   <strong>macOS internals, local privilege escalation, game security, crypto systems, 
-  and secure backend architectures</strong>. Experienced in building scalable services 
-  and conducting applied security research across complex systems.
+  and secure backend architectures</strong>. I design and build scalable systems while conducting
+  applied, real-world security research across complex and adversarial environments.
 </p>
 
-<ul style="max-width:860px; line-height:1.7; list-style-position:inside; padding-left:0;">
+<ul style="max-width:880px; line-height:1.75; list-style-position:inside; padding-left:0;">
   <li>
-    🇹🇷 <strong>Background:</strong> Turkish developer building with limited resources and strong determination
+    🇹🇷 <strong>Background:</strong> Turkish developer building global-scale systems with limited resources,
+    high discipline, and long-term vision
   </li>
 
   <li>
-    🚀 <strong>Entrepreneurship:</strong> Co-founder of <strong>Pelikan WAA</strong>, a startup being developed with
-    our own resources and infrastructure between Türkiye and Azerbaijan
+    🚀 <strong>Founder:</strong> Founder of <strong>Pelikan WAA</strong>, an automation-driven startup developed
+    entirely with our own infrastructure and capabilities across Türkiye and Azerbaijan
   </li>
 
   <li>
@@ -52,7 +53,9 @@
   </li>
 </ul>
 
-<p style="font-size:14px; line-height:1.6; max-width:860px; opacity:0.88; border-left:3px solid #444; padding-left:12px; margin-top:14px;">
-  I am building with the opportunities currently in my hands, developing <strong>Pelikan WAA</strong> in Azerbaijan
-  with my own means. My goals will be realized — I leave this note here as a commitment to that future.
+<p style="font-size:14px; line-height:1.6; max-width:880px; opacity:0.9; border-left:3px solid #444; padding-left:12px; margin-top:16px;">
+  I am building with the opportunities currently in my hands and nothing more. <strong>Pelikan WAA</strong> is being
+  developed through pure determination, engineering discipline, and self-funded execution in Azerbaijan.
+  My objectives are not hypothetical — <strong>they will be realized</strong>.  
+  I leave this note here as a permanent record of that commitment.
 </p>
