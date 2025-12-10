@@ -11,6 +11,15 @@
 
 <ul style="max-width:860px; line-height:1.7; list-style-position:inside; padding-left:0;">
   <li>
+    🇹🇷 <strong>Background:</strong> Turkish developer building with limited resources and strong determination
+  </li>
+
+  <li>
+    🚀 <strong>Entrepreneurship:</strong> Co-founder of <strong>Pelikan WAA</strong>, a startup being developed with
+    our own resources and infrastructure between Türkiye and Azerbaijan
+  </li>
+
+  <li>
     🔬 <strong>Focus:</strong> macOS authorization & LPE, Growtopia & CS:GO security models, crypto & NLP system abuse
   </li>
 
@@ -43,6 +52,7 @@
   </li>
 </ul>
 
-<p style="font-size:14px; line-height:1.6; max-width:860px; opacity:0.85;">
-  Driven by precision, security-by-design principles, and disciplined engineering practices.
+<p style="font-size:14px; line-height:1.6; max-width:860px; opacity:0.88; border-left:3px solid #444; padding-left:12px; margin-top:14px;">
+  I am building with the opportunities currently in my hands, developing <strong>Pelikan WAA</strong> in Azerbaijan
+  with my own means. My goals will be realized — I leave this note here as a commitment to that future.
 </p>
