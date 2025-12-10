@@ -40,6 +40,12 @@
   </li>
 
   <li>
+    😄 <strong>Dev Humor:</strong> Strong preference for <strong>C-style and JavaScript-based languages</strong> —
+    closer to human logic, readable, and explicit. Python and its indentation-driven “magic” is simply
+    not my cup of tea.
+  </li>
+
+  <li>
     🎵 <strong>Favorite Viral:</strong> Charlie Bit Me (Remix) — 2007
   </li>
 
