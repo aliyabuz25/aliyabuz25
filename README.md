@@ -42,13 +42,10 @@
 
   <li>
     📫 <strong>Contact:</strong>
-    <a href="mailto:ali@example.com">ali@example.com</a>
+    <a href="mailto:aliyabuz30@gmail.com">aliyabuz30@gmail.com</a>
   </li>
 
-  <li>
-    🌐 <strong>Website / Blog:</strong>
-    <a href="https://example.com" target="_blank" rel="noopener noreferrer">https://example.com</a>
-  </li>
+ 
 </ul>
 
 <p>
