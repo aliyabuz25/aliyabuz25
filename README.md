@@ -10,8 +10,8 @@
 ---
 
 ### 🛡️ Engineering Philosophy
-Güvenlik odaklı Backend Mühendisi olarak, **mesajlaşma altyapıları** ve **üretim aşaması otomasyonları** üzerine uzmanlaşmış sistemler inşa ediyorum. Kodun sadece çalışmasına değil; güvenli, ölçeklenebilir ve sürdürülebilir olmasına odaklanıyorum.
-> "Security is not a feature, it's a foundation."
+Güvenlik odaklı Backend Mühendisi olarak; **ölçeklenebilir mesajlaşma altyapıları**, **üretim seviyesi otomasyonlar** ve **güvenli API mimarileri** inşa ediyorum. Fokus noktam; yüksek erişilebilirlik, veri bütünlüğü ve sistem güvenliğidir.
+> "Building resilient systems through secure engineering."
 
 ---
 
@@ -20,19 +20,19 @@ Güvenlik odaklı Backend Mühendisi olarak, **mesajlaşma altyapıları** ve **
 | :--- | :--- |
 | **Backend Arch** | `C# / .NET`, `Node.js`, `TypeScript`, `PHP`, `Message Queues` |
 | **Security / Low-Level** | `LLDB`, `Frida`, `Clang/LLVM`, `Protocol Analysis` |
-| **Data & Cloud** | `Docker`, `Redis`, `MySQL`, `MongoDB`, `Linux Administration` |
+| **Data & Infrastructure** | `Docker`, `Redis`, `MySQL`, `MongoDB`, `Linux Admin` |
 
 ---
 
-### 🚀 Key Infrastructure Projects
+### 🚀 Strategic Infrastructure Projects
 *   **HubMSG WAA** 🌐  
-    *Enterprise-grade WhatsApp Messaging Ecosystem.* Ölçeklenebilir mesajlaşma hatları ve kurumsal otomasyon katmanları.
+    *Enterprise WhatsApp Messaging Systems.* Kurumsal ölçekte mesajlaşma otomasyonu ve altyapı yönetimi.
 *   **AnkaLLM** 🤖  
-    *Production-Level AI Tooling.* Yapay zeka modellerinin ticari operasyonlara güvenli entegrasyonu.
+    *AI Engineering.* Yapay zeka modellerinin güvenli, üretim seviyesinde sistem entegrasyonları.
 *   **Azpinx** 💡  
-    *Modern Product Development.* Türkiye ve Azerbaycan ağında dijital dönüşüm odaklı stratejik girişim.
-*   **Ops Automation** ⚙️  
-    *Logistics & Notification Workflows.* Operasyonel ekipler için hatasız bildirim ve yönetim sistemleri.
+    *Future Tech Initiative.* Türkiye ve Azerbaycan ağında modern dijital ürün geliştirme ve teknoloji danışmanlığı.
+*   **Security Research** 🛡️  
+    *Vulnerability & Protocol Analysis.* Tersine mühendislik araçları (LLDB/Frida) ile sistem güvenliği denetimleri.
 
 ---
 
@@ -41,6 +41,8 @@ Güvenlik odaklı Backend Mühendisi olarak, **mesajlaşma altyapıları** ve **
 </p>
 
 ---
+
 <p align="center">
-  <i>Inspiration: <b>Kellie (2025 - ∞)</b></i>
+  <img src="https://img.shields.io/badge/Status-Open_for_Collaborations-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Istanbul_/_Baku-blue?style=flat-square" />
 </p>
