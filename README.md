@@ -36,11 +36,6 @@ Güvenlik odaklı Backend Mühendisi olarak, **mesajlaşma altyapıları** ve **
 
 ---
 
-### 📊 Contribution Metrics (Isometric View)
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=aliyabuz&theme=dark" width="100%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyabuz&theme=react-dark&bg_color=0d1117&color=007acc&hide_border=true&area=true" width="100%" />
 </p>
