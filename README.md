@@ -8,71 +8,34 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliyabuz/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:aliyabuz30@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Secure_Backend_Engineering-111827?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Domain-Messaging_Infra-0f766e?style=flat-square" alt="Domain" />
-  <img src="https://img.shields.io/badge/Approach-Scalable_&_Resilient-1d4ed8?style=flat-square" alt="Approach" />
 </p>
 
-<p align="center">
-  <i>Building resilient systems through secure engineering.</i>
+## About
+Guvenlik odakli backend muhendisligi yapiyorum: olceklenebilir mesajlasma altyapilari, guvenli API mimarileri ve uretim seviyesinde otomasyon.
+
+## Ventures
+- **HubMSG WAA**: Enterprise WhatsApp messaging systems. [hubmsg.octotech.az](https://hubmsg.octotech.az)
+- **Azpinx**: Azərbaycanda oyunlar ucun resmi e-pin satis platformasi (7/24). [azpinx.com](https://azpinx.com)
+- **AnkaLLM**: Secure AI engineering and production integrations.
+
+## Core Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,php,dotnet,docker,redis,mysql,mongodb,linux,git&theme=dark" height="30" alt="Core stack" />
 </p>
 
-<p align="center">
-  <a href="https://hubmsg.octotech.az">
-    <img src="https://img.shields.io/badge/HubMSG-WAA-0f766e?style=flat-square&logo=whatsapp&logoColor=white" alt="HubMSG" />
-  </a>
-  <a href="https://azpinx.com">
-    <img src="https://img.shields.io/badge/AZPINX-E--Pin_Platform-1d4ed8?style=flat-square&logo=gamejolt&logoColor=white" alt="Azpinx" />
-  </a>
-</p>
-
-## Engineering Philosophy
-Guvenlik odakli bir backend muhendisi olarak; **olceklenebilir mesajlasma altyapilari**, **uretim seviyesi otomasyonlar** ve **guvenli API mimarileri** insa ediyorum. Ana hedefim:
-- Yuksek erisilebilirlik
-- Veri butunlugu
-- Uc uca sistem guvenligi
-
-## Specialized Expertise
-| Category | Stack & Tools |
-| :--- | :--- |
-| **Backend Architecture** | <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,php,dotnet&theme=dark" height="25" alt="Backend stack" /> |
-| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=docker,redis,mysql,mongodb,linux,git&theme=dark" height="25" alt="Data and cloud stack" /> |
-| **Security / Low-Level** | <img src="https://img.shields.io/badge/LLDB-Debugging-0f172a?style=flat-square&logo=llvm&logoColor=white" alt="LLDB" /> <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-7c3aed?style=flat-square&logo=framer&logoColor=white" alt="Frida" /> <img src="https://img.shields.io/badge/Clang%2FLLVM-Toolchain-334155?style=flat-square&logo=llvm&logoColor=white" alt="Clang LLVM" /> <img src="https://img.shields.io/badge/Protocol-Analysis-0e7490?style=flat-square&logo=wireshark&logoColor=white" alt="Protocol Analysis" /> |
-
-## Strategic Infrastructure Projects
-### HubMSG WAA
-**Enterprise WhatsApp Messaging Systems**  
-Kurumsal olcekte mesajlasma otomasyonu ve altyapi yonetimi.
-<br />
-<a href="https://hubmsg.octotech.az">
-  <img src="https://img.shields.io/badge/Website-hubmsg.octotech.az-0f766e?style=flat-square&logo=google-chrome&logoColor=white" alt="HubMSG Website" />
-</a>
-
-### AnkaLLM
-**AI Engineering**  
-Yapay zeka modellerinin guvenli ve uretim seviyesinde sistem entegrasyonlari.
-
-### Azpinx
-**Resmi e-pin satis platformasi**  
-AZPINX - Azərbaycanda bütün oyunlar üçün ən ucuz e-pinlərin rəsmi satış platformasıdır. Biz 7/24 xidmətinizdəyik.
-<br />
-<a href="https://azpinx.com">
-  <img src="https://img.shields.io/badge/Website-azpinx.com-1d4ed8?style=flat-square&logo=google-chrome&logoColor=white" alt="Azpinx Website" />
-</a>
-
-### Security Research
-**Vulnerability & Protocol Analysis**  
-Tersine muhendislik araclari (LLDB/Frida) ile sistem guvenligi denetimleri.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_for_Collaborations-success?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Istanbul_/_Baku-blue?style=flat-square" alt="Location" />
+<p>
+  <img src="https://img.shields.io/badge/LLDB-0f172a?style=flat-square&logo=llvm&logoColor=white" alt="LLDB" />
+  <img src="https://img.shields.io/badge/Frida-7c3aed?style=flat-square&logo=framer&logoColor=white" alt="Frida" />
+  <img src="https://img.shields.io/badge/Clang%2FLLVM-334155?style=flat-square&logo=llvm&logoColor=white" alt="Clang LLVM" />
+  <img src="https://img.shields.io/badge/Protocol_Analysis-0e7490?style=flat-square&logo=wireshark&logoColor=white" alt="Protocol Analysis" />
 </p>
