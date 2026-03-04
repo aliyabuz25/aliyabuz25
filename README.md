@@ -1,53 +1,76 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c3e50&height=200&section=header&text=Ali%20Yabuz&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
   <strong>Founder @ HubMSG WAA</strong> • <strong>Startup Team @ Azpinx</strong> • <strong>Builder @ AnkaLLM</strong>
 </p>
+
 <p align="center">
-  Security-Focused Backend Engineer • Production Systems • Messaging Infrastructure
+  <a href="https://github.com/aliyabuz">
+    <img src="https://img.shields.io/github/followers/aliyabuz?label=Followers&style=for-the-badge&color=007acc&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aliyabuz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aliyabuz30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+---
+
+### 🛡️ Profile & Expertise
+Güvenlik odaklı Backend mühendisi olarak; ölçeklenebilir API'lar, üretim seviyesinde otomasyon iş akışları ve yüksek kullanılabilirliğe sahip mesajlaşma altyapıları inşa ediyorum. Türkiye ve Azerbaycan ağındaki ticari operasyonlar için kritik sistemler geliştiriyorum.
+
+- 🔍 **Odak Alanı:** Sistem Güvenliği, Protokol Analizi ve Yüksek Performanslı Mesajlaşma.
+- 🏗️ **Felsefe:** "Production-Grade" olmayan hiçbir kod, bitmiş sayılmaz.
+- 🌱 **İlham:** *Kellie (2025 - ∞)*
+
+---
+
+### 🛠️ Core Technology Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,php,linux,docker,mysql,mongodb,redis,git" />
+  </a>
+</p>
+
+> **Security & Tools:** LLDB, Frida, Clang/LLVM, Queue Messaging, Secure API Arch.
+
+---
+
+### 🚀 Featured Projects
+- 🐦 **AnkaLLM:** Üretim aşamasına hazır entegrasyonlarla pratik LLM araçları.
+- 📱 **HubMSG WAA:** Ölçeklenebilir WhatsApp otomasyonu ve kurumsal mesajlaşma altyapısı.
+- 💡 **Azpinx:** Modern dijital ürün geliştirme odaklı teknoloji girişimi.
+- ⚙️ **Logistics Automation:** Operasyonel takımlar için abonelik ve bildirim iş akışları.
+- 🛡️ **Security Engineering:** Kimlik doğrulama sınırları ve risk azaltma protokolleri.
+
+---
+
+### 📊 GitHub Stats & contribution Activity
 <p align="center">
-  <a href="https://github.com/aliyabuz" aria-label="GitHub" style="text-decoration:none;border:0;display:inline-block;line-height:0;">
-    <img src="https://api.iconify.design/fa6-brands:github.svg?color=%23FFFFFF" width="22" height="22" alt="GitHub" style="display:block;background:#111111;border-radius:50%;padding:2px;" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aliyabuz/" aria-label="LinkedIn" style="text-decoration:none;border:0;display:inline-block;line-height:0;">
-    <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%230A66C2" width="22" height="22" alt="LinkedIn" style="display:block;" />
-  </a>
-  &nbsp;
-  <a href="mailto:aliyabuz30@gmail.com" aria-label="Email" style="text-decoration:none;border:0;display:inline-block;line-height:0;">
-    <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23EA4335" width="22" height="22" alt="Email" style="display:block;" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyabuz&theme=react-dark&bg_color=0d1117&color=007acc&line=007acc&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
-## Profile
-Backend engineer focused on secure, production-grade systems. I build APIs, automation workflows, and high-availability messaging infrastructure for commercial operations in Türkiye and Azerbaijan.
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=aliyabuz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyabuz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="100%" />
+    </td>
+  </tr>
+</table>
 
-## Motivation
-**Kellie (2025 - ∞)**
-
-## What I Build
-- **AnkaLLM**: practical LLM tooling with production-grade integrations
-- **HubMSG WAA**: scalable WhatsApp automation and messaging infrastructure
-- **Azpinx**: startup initiative focused on modern digital product development  
-  [azpinx.octotech.az](https://azpinx.octotech.az)
-- **Logistics Automation**: subscription and notification workflows for operational teams
-- **Security Engineering**: auth boundaries, protocol-level analysis, and risk reduction
-
-## Technology
-<p>
-  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/LLDB-111111?style=flat-square" alt="LLDB" />
-  <img src="https://img.shields.io/badge/Frida-111111?style=flat-square" alt="Frida" />
-  <img src="https://img.shields.io/badge/clang%2FLLVM-111111?style=flat-square" alt="clang/LLVM" />
-  <img src="https://img.shields.io/badge/Secure_APIs-0A66C2?style=flat-square" alt="Secure APIs" />
-  <img src="https://img.shields.io/badge/Queue_Messaging-0A66C2?style=flat-square" alt="Queue Messaging" />
-  <img src="https://img.shields.io/badge/App_Security-0A66C2?style=flat-square" alt="App Security" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyabuz&theme=dark&hide_border=true&background=0d1117" width="100%" />
 </p>
 
-## Contact
-- **Email**: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
-- **LinkedIn**: [linkedin.com/in/aliyabuz](https://www.linkedin.com/in/aliyabuz/)
-- **Startup**: [azpinx.octotech.az](https://azpinx.octotech.az)
+---
+
+<p align="center">
+  <i>"Security is not a product, but a process." - Bruce Schneier</i>
+</p>
