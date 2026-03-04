@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&section=header&text=Ali%20Yabuz%20Light&fontSize=60&animation=fadeIn&fontAlignY=50" />
-</p>
-
-<p align="center">
   <strong>Founder @ HubMSG WAA</strong> • <strong>Startup @ Azpinx</strong> • <strong>Builder @ AnkaLLM</strong>
 </p>
 
@@ -26,7 +22,7 @@ Backend engineer focusing on **secure infrastructure** and **messaging automatio
 ### 🚀 Key Projects
 - **HubMSG WAA:** Enterprise WhatsApp Messaging Infrastructure.
 - **AnkaLLM:** Production-ready AI/LLM engineering.
-- **Azpinx:** Modern digital product development.
+- **Azpinx:** Modern digital product development initiative.
 
 ---
 
@@ -37,8 +33,4 @@ Backend engineer focusing on **secure infrastructure** and **messaging automatio
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliyabuz&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyabuz&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=ffffff&icon_color=007acc" width="100%" />
 </p>
