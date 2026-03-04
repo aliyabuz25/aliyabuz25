@@ -13,14 +13,21 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Secure_Backend_Engineering-111827?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Domain-Messaging_Infra-0f766e?style=flat-square" alt="Domain" />
+  <img src="https://img.shields.io/badge/Approach-Scalable_&_Resilient-1d4ed8?style=flat-square" alt="Approach" />
+</p>
+
+<p align="center">
+  <i>Building resilient systems through secure engineering.</i>
+</p>
 
 ## Engineering Philosophy
-Guvenlik odakli bir Backend Muhendisi olarak; **olceklenebilir mesajlasma altyapilari**, **uretim seviyesi otomasyonlar** ve **guvenli API mimarileri** insa ediyorum. Odak noktam: yuksek erisilebilirlik, veri butunlugu ve sistem guvenligi.
-
-> Building resilient systems through secure engineering.
-
----
+Guvenlik odakli bir backend muhendisi olarak; **olceklenebilir mesajlasma altyapilari**, **uretim seviyesi otomasyonlar** ve **guvenli API mimarileri** insa ediyorum. Ana hedefim:
+- Yuksek erisilebilirlik
+- Veri butunlugu
+- Uc uca sistem guvenligi
 
 ## Specialized Expertise
 | Category | Stack & Tools |
@@ -28,8 +35,6 @@ Guvenlik odakli bir Backend Muhendisi olarak; **olceklenebilir mesajlasma altyap
 | **Backend Architecture** | <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,php,dotnet&theme=dark" height="25" alt="Backend stack" /> |
 | **Data & Cloud** | <img src="https://skillicons.dev/icons?i=docker,redis,mysql,mongodb,linux,git&theme=dark" height="25" alt="Data and cloud stack" /> |
 | **Security / Low-Level** | `LLDB`, `Frida`, `Clang/LLVM`, `Protocol Analysis` |
-
----
 
 ## Strategic Infrastructure Projects
 ### HubMSG WAA
@@ -48,13 +53,11 @@ Turkiye ve Azerbaycan aginda modern dijital urun gelistirme ve teknoloji danisma
 **Vulnerability & Protocol Analysis**  
 Tersine muhendislik araclari (LLDB/Frida) ile sistem guvenligi denetimleri.
 
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyabuz&theme=react-dark&bg_color=0d1117&color=007acc&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
----
+## Collaboration
+Acigim:
+- Altyapi ve backend odakli is birliklerine
+- Guvenlik odakli urun gelistirme projelerine
+- Turkiye / Azerbaycan merkezli teknoloji girisimlerine
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_for_Collaborations-success?style=flat-square" alt="Status" />
