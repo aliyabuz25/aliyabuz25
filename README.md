@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Ali%20Yabuz&fontSize=70&fontAlignY=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=Ali%20Yabuz&fontSize=60&fontAlignY=50&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 ### 🛡️ Production Systems & Security
-Backend engineer focusing on **secure infrastructure** and **messaging automation**.
+Backend engineer focusing on **secure infrastructure** and **messaging automation**. Building high-availability solutions for commercial operations.
 > *Inspiration:* **Kellie (2025 - ∞)**
 
 <p align="center">
@@ -25,17 +25,12 @@ Backend engineer focusing on **secure infrastructure** and **messaging automatio
 
 ### 🚀 Key Projects
 - **HubMSG WAA:** Enterprise WhatsApp Messaging Infrastructure.
-- **AnkaLLM:** Production-ready AI/LLM tooling.
+- **AnkaLLM:** Production-ready AI/LLM engineering.
 - **Azpinx:** Modern digital product development.
 
 ---
 
-### 📊 Activity & Stats
+### 📊 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyabuz&theme=react-dark&bg_color=0d1117&color=007acc&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyabuz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyabuz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="42%" />
 </p>
