@@ -34,7 +34,7 @@ Guvenlik odakli bir backend muhendisi olarak; **olceklenebilir mesajlasma altyap
 | :--- | :--- |
 | **Backend Architecture** | <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,php,dotnet&theme=dark" height="25" alt="Backend stack" /> |
 | **Data & Cloud** | <img src="https://skillicons.dev/icons?i=docker,redis,mysql,mongodb,linux,git&theme=dark" height="25" alt="Data and cloud stack" /> |
-| **Security / Low-Level** | `LLDB`, `Frida`, `Clang/LLVM`, `Protocol Analysis` |
+| **Security / Low-Level** | <img src="https://img.shields.io/badge/LLDB-Debugging-0f172a?style=flat-square&logo=llvm&logoColor=white" alt="LLDB" /> <img src="https://img.shields.io/badge/Frida-Dynamic_Instrumentation-7c3aed?style=flat-square&logo=framer&logoColor=white" alt="Frida" /> <img src="https://img.shields.io/badge/Clang%2FLLVM-Toolchain-334155?style=flat-square&logo=llvm&logoColor=white" alt="Clang LLVM" /> <img src="https://img.shields.io/badge/Protocol-Analysis-0e7490?style=flat-square&logo=wireshark&logoColor=white" alt="Protocol Analysis" /> |
 
 ## Strategic Infrastructure Projects
 ### HubMSG WAA
