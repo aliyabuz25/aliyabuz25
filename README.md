@@ -9,13 +9,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aliyabuz/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:aliyabuz30@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/aliyabuz"><img src="https://img.shields.io/github/followers/aliyabuz?label=Followers&style=flat-square&color=333" /></a>
 </p>
 
 ---
 
 ### 🛡️ Production Systems & Security
-Backend engineer focusing on **secure infrastructure**, **messaging automation**, and **API integrity**. Building high-availability solutions across Türkiye & Azerbaijan.
+Backend engineer focusing on **secure infrastructure** and **messaging automation**.
 > *Inspiration:* **Kellie (2025 - ∞)**
 
 <p align="center">
@@ -25,24 +24,18 @@ Backend engineer focusing on **secure infrastructure**, **messaging automation**
 ---
 
 ### 🚀 Key Projects
-- **HubMSG WAA:** Enterprise-grade WhatsApp Messaging Infrastructure.
-- **AnkaLLM:** Production-ready AI/LLM tooling & integrations.
-- **Azpinx:** Modern digital product development initiative.
-- **Security:** Auth boundaries, protocol analysis & LLDB/Frida instrumentation.
+- **HubMSG WAA:** Enterprise WhatsApp Messaging Infrastructure.
+- **AnkaLLM:** Production-ready AI/LLM tooling.
+- **Azpinx:** Modern digital product development.
 
 ---
 
 ### 📊 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyabuz&theme=react-dark&bg_color=0d1117&color=007acc&hide_border=true&height=300" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliyabuz&theme=react-dark&bg_color=0d1117&color=007acc&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliyabuz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyabuz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliyabuz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyabuz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="42%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliyabuz&theme=dark&hide_border=true&background=0d1117" width="100%" />
-</p>
-
