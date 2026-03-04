@@ -1,4 +1,6 @@
-<h1 align="center">Ali Yabuz</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1d4ed8&height=120&section=header&text=Ali%20Yabuz&fontSize=34&fontColor=ffffff" alt="Ali Yabuz banner" />
+</p>
 
 <p align="center">
   <b>Founder @ HubMSG WAA</b> • <b>Startup @ Azpinx</b> • <b>Builder @ AnkaLLM</b>
@@ -21,6 +23,15 @@
 
 <p align="center">
   <i>Building resilient systems through secure engineering.</i>
+</p>
+
+<p align="center">
+  <a href="https://hubmsg.octotech.az">
+    <img src="https://img.shields.io/badge/HubMSG-WAA-0f766e?style=flat-square&logo=whatsapp&logoColor=white" alt="HubMSG" />
+  </a>
+  <a href="https://azpinx.com">
+    <img src="https://img.shields.io/badge/AZPINX-E--Pin_Platform-1d4ed8?style=flat-square&logo=gamejolt&logoColor=white" alt="Azpinx" />
+  </a>
 </p>
 
 ## Engineering Philosophy
