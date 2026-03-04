@@ -72,12 +72,6 @@ AZPINX - Azərbaycanda bütün oyunlar üçün ən ucuz e-pinlərin rəsmi satı
 **Vulnerability & Protocol Analysis**  
 Tersine muhendislik araclari (LLDB/Frida) ile sistem guvenligi denetimleri.
 
-## Collaboration
-Acigim:
-- Altyapi ve backend odakli is birliklerine
-- Guvenlik odakli urun gelistirme projelerine
-- Turkiye / Azerbaycan merkezli teknoloji girisimlerine
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_for_Collaborations-success?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Istanbul_/_Baku-blue?style=flat-square" alt="Location" />
