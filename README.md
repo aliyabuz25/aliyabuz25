@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1d4ed8&height=120&section=header&text=Ali%20Yabuz&fontSize=34&fontColor=ffffff" alt="Ali Yabuz banner" />
+  <img src="./assets/penguin-banner.svg" alt="Ali Yabuz banner" />
 </p>
 
 <p align="center">
