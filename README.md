@@ -40,6 +40,10 @@ Guvenlik odakli bir backend muhendisi olarak; **olceklenebilir mesajlasma altyap
 ### HubMSG WAA
 **Enterprise WhatsApp Messaging Systems**  
 Kurumsal olcekte mesajlasma otomasyonu ve altyapi yonetimi.
+<br />
+<a href="https://hubmsg.octotech.az">
+  <img src="https://img.shields.io/badge/Website-hubmsg.octotech.az-0f766e?style=flat-square&logo=google-chrome&logoColor=white" alt="HubMSG Website" />
+</a>
 
 ### AnkaLLM
 **AI Engineering**  
@@ -48,6 +52,10 @@ Yapay zeka modellerinin guvenli ve uretim seviyesinde sistem entegrasyonlari.
 ### Azpinx
 **Future Tech Initiative**  
 Turkiye ve Azerbaycan aginda modern dijital urun gelistirme ve teknoloji danismanligi.
+<br />
+<a href="https://azpinx.com">
+  <img src="https://img.shields.io/badge/Website-azpinx.com-1d4ed8?style=flat-square&logo=google-chrome&logoColor=white" alt="Azpinx Website" />
+</a>
 
 ### Security Research
 **Vulnerability & Protocol Analysis**  
