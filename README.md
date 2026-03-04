@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/penguin-banner.svg" alt="Ali Yabuz banner" />
+  <img src="penguin-banner.svg" alt="Ali Yabuz banner" />
 </p>
 
 <p align="center">
