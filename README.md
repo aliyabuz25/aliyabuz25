@@ -21,11 +21,11 @@
 </p>
 
 ## About
-Guvenlik odakli backend muhendisligi yapiyorum: olceklenebilir mesajlasma altyapilari, guvenli API mimarileri ve uretim seviyesinde otomasyon.
+I build security-focused backend systems: scalable messaging infrastructure, secure API architectures, and production-grade automation.
 
 ## Ventures
 - **HubMSG WAA**: Enterprise WhatsApp messaging systems. [hubmsg.octotech.az](https://hubmsg.octotech.az)
-- **Azpinx**: Azərbaycanda oyunlar ucun resmi e-pin satis platformasi (7/24). [azpinx.com](https://azpinx.com)
+- **Azpinx**: Official e-pin sales platform for gamers in Azerbaijan (24/7). [azpinx.com](https://azpinx.com)
 - **AnkaLLM**: Secure AI engineering and production integrations.
 
 ## Core Stack
