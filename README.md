@@ -16,11 +16,11 @@ Güvenlik odaklı Backend Mühendisi olarak; **ölçeklenebilir mesajlaşma alty
 ---
 
 ### 🛠️ Specialized Expertise
-| Category | Tools & Technologies |
+| Category | Stack & Tools |
 | :--- | :--- |
-| **Backend Arch** | `C# / .NET`, `Node.js`, `TypeScript`, `PHP`, `Message Queues` |
+| **Backend Arch** | <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,php,dotnet&theme=dark" height="25" /> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=docker,redis,mysql,mongodb,linux,git&theme=dark" height="25" /> |
 | **Security / Low-Level** | `LLDB`, `Frida`, `Clang/LLVM`, `Protocol Analysis` |
-| **Data & Infrastructure** | `Docker`, `Redis`, `MySQL`, `MongoDB`, `Linux Admin` |
 
 ---
 
