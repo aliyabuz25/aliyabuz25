@@ -50,8 +50,8 @@ Kurumsal olcekte mesajlasma otomasyonu ve altyapi yonetimi.
 Yapay zeka modellerinin guvenli ve uretim seviyesinde sistem entegrasyonlari.
 
 ### Azpinx
-**Future Tech Initiative**  
-Turkiye ve Azerbaycan aginda modern dijital urun gelistirme ve teknoloji danismanligi.
+**Resmi e-pin satis platformasi**  
+AZPINX - Azərbaycanda bütün oyunlar üçün ən ucuz e-pinlərin rəsmi satış platformasıdır. Biz 7/24 xidmətinizdəyik.
 <br />
 <a href="https://azpinx.com">
   <img src="https://img.shields.io/badge/Website-azpinx.com-1d4ed8?style=flat-square&logo=google-chrome&logoColor=white" alt="Azpinx Website" />
