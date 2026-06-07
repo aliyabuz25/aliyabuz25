@@ -11,7 +11,7 @@ Backend Engineer • Security Researcher • Founder
 
 Building secure backend systems, scalable infrastructure, and production-grade software.
 
-**Interests:** Application Security, Reverse Engineering, Distributed Systems, AI Infrastructure, and Messaging Platforms.
+Interested in application security, distributed systems, reverse engineering, AI infrastructure, and messaging platforms.
 
 ---
 
@@ -20,6 +20,9 @@ Building secure backend systems, scalable infrastructure, and production-grade s
 ### Apple Security Credit — CVE-2024-0258
 
 Recognized by Apple for reporting a vulnerability in **libxpc** affecting Apple platforms.
+
+- CVE Record: https://www.cve.org/CVERecord?id=CVE-2024-0258
+- Apple Security Updates: https://support.apple.com/security
 
 ---
 
