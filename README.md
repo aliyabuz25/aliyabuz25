@@ -1,45 +1,63 @@
 # Ali Yabuz
 
-## 🛡️ Apple Security Credit
+**Security Researcher • Backend Engineer**
 
-**CVE-2024-0258 (libxpc)**  
-Recognized by Apple Security for reporting a vulnerability affecting Apple platforms.
+**Apple Security Credit — [CVE-2024-0258](https://www.cve.org/CVERecord?id=CVE-2024-0258)**
 
-🔗 https://www.cve.org/CVERecord?id=CVE-2024-0258
+Recognized by Apple for reporting a vulnerability in **libxpc**.
 
----
-
-## Security Researcher • Backend Engineer
-
-Building secure systems, scalable infrastructure, and production-grade software.
+* Apple Advisory (macOS Sonoma 14.4): https://support.apple.com/en-us/120895
+* Apple Advisory (tvOS 17.4): https://support.apple.com/en-us/120882
 
 [LinkedIn](https://linkedin.com/in/aliyabuz) • [Email](mailto:aliyabuz30@gmail.com)
 
 ---
 
-## Technologies
+## About
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,php,dotnet,docker,redis,mysql,mongodb,linux,git" />
-</p>
+Building secure backend systems, scalable infrastructure, and production-grade software.
+
+Focused on application security, distributed systems, messaging infrastructure, reverse engineering, and AI engineering.
+
+---
+
+## Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square\&logo=csharp\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square\&logo=php\&logoColor=white)
+
+![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square\&logo=dotnet\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square\&logo=redis\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux\&logoColor=white)
 
 ---
 
 ## Security & Research
 
-<p>
-  <img src="https://img.shields.io/badge/Application%20Security-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Protocol%20Analysis-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems%20Programming-111827?style=for-the-badge" />
-</p>
+![Application Security](https://img.shields.io/badge/Application_Security-111827?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111827?style=flat-square)
+![Protocol Analysis](https://img.shields.io/badge/Protocol_Analysis-111827?style=flat-square)
+![Systems Programming](https://img.shields.io/badge/Systems_Programming-111827?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-111827?style=flat-square)
 
 ---
 
 ## Contributions
 
-- Apple Security Credit — CVE-2024-0258
-- Enterprise Messaging Infrastructure (HubMSG)
-- AI Engineering & Agent Systems (AnkaLLM)
-- Digital Commerce Platforms (Azpinx)
+* Apple Security Credit — CVE-2024-0258
+* HubMSG — Enterprise Messaging Infrastructure
+* AnkaLLM — AI Engineering & Automation
+* Azpinx — Digital Commerce Platform
 
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyabuz25\&show_icons=true\&hide_border=true\&rank_icon=github)
+
+> Building secure systems, resilient infrastructure, and production-grade software.
