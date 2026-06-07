@@ -5,48 +5,61 @@
 
 ---
 
-## 🚀 Hakkımda / About
-Güvenli ve ölçeklenebilir yazılım sistemleri geliştirmeye odaklanan; arka uç mühendisliği (backend), dağıtık mimariler, mesajlaşma platformları, güvenlik araştırmaları ve yapay zeka entegrasyonları üzerinde çalışan bir mühendisim.
+## 🚀 About
+I build secure and scalable software systems with a focus on backend engineering, distributed infrastructure, messaging platforms, security research, and AI-powered applications.
 
-**İlgi Alanlarım:**
-* İşletim Sistemi İç Yapısı (OS Internals)
-* Uygulama Güvenliği & Tersine Mühendislik (Reverse Engineering)
-* Protokol Analizi & Güvenlik Araştırmaları
-* Ölçeklenebilir ve Üretim Seviyesinde Dağıtık Sistem Mimarileri
+* **Core Interests:** OS Internals, Application Security, Protocol Analysis, Reverse Engineering, and Production-Grade Architecture.
 
 ---
 
-## 🛡️ Güvenlik Araştırmaları (Security Research)
+## 🛡️ Security Research
 ### Apple Security Credit — CVE-2024-0258
-* **Zafiyet Tanımı:** **libxpc** kütüphanesinde, bir uygulamanın sandbox (korumalı alan) dışına çıkmasına veya yetki yükselterek rastgele kod çalıştırmasına (RCE) olanak tanıyan kritik bir güvenlik açığı tespit edilerek raporlanmıştır.
-* **Durum:** Apple tarafından resmi olarak tanınmış ve teşekkür listesinde yer alınmıştır.
+* **Vulnerability:** Discovered a vulnerability in **libxpc** that could allow an application to escape its sandbox or execute arbitrary code with elevated privileges.
+* **Status:** Officially recognized and credited by Apple.
 
 ---
 
-## 🛠️ Teknolojiler & Yetkinlikler (Technologies)
+## 🛠️ Technologies & Skills
 
-### Yazılım Dilleri
-`C# (.NET)` • `TypeScript` • `JavaScript` • `C/C++` • `PHP` • `Bash`
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Arka Uç & Altyapı
-`Docker` • `Redis` • `MySQL` • `MongoDB` • `Linux` • `Nginx` • `Git`
+### Backend & Infrastructure
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Sistem & Güvenlik
-`LLDB` • `Frida` • `Clang / LLVM` • `Protocol Analysis` • `Reverse Engineering`
+### Security & Systems
+![LLDB](https://img.shields.io/badge/LLDB-111827?style=flat-square&logo=llvm&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-111827?style=flat-square)
+![Clang/LLVM](https://img.shields.io/badge/Clang%2FLLVM-111827?style=flat-square&logo=llvm&logoColor=white)
+![Protocol Analysis](https://img.shields.io/badge/Protocol%20Analysis-111827?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-111827?style=flat-square)
 
 ---
 
-## 💼 Seçilmiş Projeler (Selected Projects)
+## 💼 Selected Projects
 
-| Proje | Açıklama |
-| :--- | :--- |
-| **HubMSG** | Kurumsal mesajlaşma altyapısı ve WhatsApp otomasyon sistemleri. |
-| **AnkaLLM** | Yapay zeka mühendisliği, iş akışı otomasyonları ve üretim entegrasyonları. |
-| **Azpinx** | Azerbaycan genelindeki kullanıcılara hizmet veren dijital oyun pazarı. |
+| Project | Description |
+|---|---|
+| **HubMSG** | Enterprise messaging infrastructure and WhatsApp automation systems. |
+| **AnkaLLM** | AI engineering, production workflow automation, and custom LLM integrations. |
+| **Azpinx** | Digital gaming marketplace serving customers across Azerbaijan. |
 
 ---
 
-## 📊 GitHub İstatistikleri (GitHub Stats)
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aliyabuz25&show_icons=true&hide_border=true&rank_icon=github" />
