@@ -13,14 +13,6 @@ Recognized by Apple for reporting a vulnerability in **libxpc**.
 
 ---
 
-## About
-
-Building secure backend systems, scalable infrastructure, and production-grade software.
-
-Focused on application security, distributed systems, messaging infrastructure, reverse engineering, and AI engineering.
-
----
-
 ## Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square\&logo=cplusplus\&logoColor=white)
@@ -37,27 +29,3 @@ Focused on application security, distributed systems, messaging infrastructure, 
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux\&logoColor=white)
 
----
-
-## Security & Research
-
-![Application Security](https://img.shields.io/badge/Application_Security-111827?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111827?style=flat-square)
-![Protocol Analysis](https://img.shields.io/badge/Protocol_Analysis-111827?style=flat-square)
-![Systems Programming](https://img.shields.io/badge/Systems_Programming-111827?style=flat-square)
-![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-111827?style=flat-square)
-
----
-
-## Contributions
-
-* Apple Security Credit — CVE-2024-0258
-* HubMSG — Enterprise Messaging Infrastructure
-* AnkaLLM — AI Engineering & Automation
-* Azpinx — Digital Commerce Platform
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliyabuz25\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-> Building secure systems, resilient infrastructure, and production-grade software.
