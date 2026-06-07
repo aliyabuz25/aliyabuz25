@@ -1,5 +1,7 @@
-```md
+
 # Ali Yabuz
+
+**Apple Security Credit (CVE-2024-0258)**
 
 Backend Engineer • Security Researcher • Founder
 
@@ -11,7 +13,7 @@ Backend Engineer • Security Researcher • Founder
 
 Building secure backend systems, scalable infrastructure, and production-grade software.
 
-Interested in application security, distributed systems, reverse engineering, AI infrastructure, and messaging platforms.
+Interested in application security, reverse engineering, distributed systems, AI infrastructure, and messaging platforms.
 
 ---
 
@@ -21,8 +23,7 @@ Interested in application security, distributed systems, reverse engineering, AI
 
 Recognized by Apple for reporting a vulnerability in **libxpc** affecting Apple platforms.
 
-- CVE Record: https://www.cve.org/CVERecord?id=CVE-2024-0258
-- Apple Security Updates: https://support.apple.com/security
+🔗 CVE Record: https://www.cve.org/CVERecord?id=CVE-2024-0258
 
 ---
 
@@ -45,11 +46,18 @@ Recognized by Apple for reporting a vulnerability in **libxpc** affecting Apple 
 
 ## Projects
 
-- **HubMSG** — Enterprise messaging infrastructure.
-- **AnkaLLM** — AI engineering and automation.
-- **Azpinx** — Digital marketplace platform.
+### HubMSG
+Enterprise messaging infrastructure and WhatsApp automation systems.
+
+### AnkaLLM
+AI engineering, automation, and production integrations.
+
+### Azpinx
+Digital marketplace platform serving customers across Azerbaijan.
 
 ---
+
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliyabuz25&show_icons=true&hide_border=true&rank_icon=github" />
