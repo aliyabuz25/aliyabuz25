@@ -1,29 +1,45 @@
 # Ali Yabuz
 
-**Security Researcher • Backend Engineer**
+## 🛡️ Apple Security Credit
 
-Credited by Apple for **CVE-2024-0258** (libxpc)
+**CVE-2024-0258 (libxpc)**  
+Recognized by Apple Security for reporting a vulnerability affecting Apple platforms.
+
+🔗 https://www.cve.org/CVERecord?id=CVE-2024-0258
+
+---
+
+## Security Researcher • Backend Engineer
+
+Building secure systems, scalable infrastructure, and production-grade software.
 
 [LinkedIn](https://linkedin.com/in/aliyabuz) • [Email](mailto:aliyabuz30@gmail.com)
 
 ---
 
-Building secure systems, scalable infrastructure, and production-grade software.
-
-### Security
-
-- Apple Security Credit — [CVE-2024-0258](https://www.cve.org/CVERecord?id=CVE-2024-0258)
-
-### Stack
+## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,nodejs,php,dotnet,docker,redis,mysql,mongodb,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,nodejs,php,dotnet,docker,redis,mysql,mongodb,linux,git" />
 </p>
 
-### Projects
+---
 
-- **HubMSG** — Messaging Infrastructure
-- **AnkaLLM** — AI Engineering
-- **Azpinx** — Digital Marketplace
+## Security & Research
 
+<p>
+  <img src="https://img.shields.io/badge/Application%20Security-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Protocol%20Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems%20Programming-111827?style=for-the-badge" />
+</p>
+
+---
+
+## Contributions
+
+- Apple Security Credit — CVE-2024-0258
+- Enterprise Messaging Infrastructure (HubMSG)
+- AI Engineering & Agent Systems (AnkaLLM)
+- Digital Commerce Platforms (Azpinx)
 
