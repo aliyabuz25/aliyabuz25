@@ -1,14 +1,13 @@
-<p align="center">
-  <img src="penguin-banner.svg" alt="Ali Yabuz banner" />
-</p>
+```md
+<h1 align="center">Ali Yabuz</h1>
 
 <p align="center">
-  <b>Founder @ HubMSG WAA</b> • <b>Startup @ Azpinx</b> • <b>Builder @ AnkaLLM</b>
+  Security Researcher • Backend Engineer • Founder
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliyabuz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aliyabuz30@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -16,26 +15,84 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Secure_Backend_Engineering-111827?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Domain-Messaging_Infra-0f766e?style=flat-square" alt="Domain" />
+  <img src="https://img.shields.io/badge/Apple%20Security%20Credit-CVE--2024--0258-black?style=flat-square" alt="Apple Security Credit" />
 </p>
+
+---
 
 ## About
-I build security-focused backend systems: scalable messaging infrastructure, secure API architectures, and production-grade automation.
 
-## Ventures
-- **HubMSG WAA**: Enterprise WhatsApp messaging systems. [hubmsg.octotech.az](https://hubmsg.octotech.az)
-- **Azpinx**: Official e-pin sales platform for gamers in Azerbaijan (24/7). [azpinx.com](https://azpinx.com)
-- **AnkaLLM**: Secure AI engineering and production integrations.
+Security researcher and backend engineer focused on secure systems, distributed infrastructure, and production-grade software.
 
-## Core Stack
+My interests include application security, reverse engineering, messaging platforms, protocol analysis, and scalable backend architecture.
+
+---
+
+## Security Recognition
+
+### Apple Security Credit
+
+**CVE-2024-0258 — libxpc**
+
+Credited by Apple for reporting a vulnerability in libxpc that could allow an application to execute arbitrary code outside its sandbox or with elevated privileges.
+
+Affected platforms included:
+
+- macOS
+- iOS
+- iPadOS
+- tvOS
+- watchOS
+
+---
+
+## Projects
+
+### HubMSG
+
+Enterprise messaging infrastructure and WhatsApp automation systems.
+
+### AnkaLLM
+
+AI systems, tooling, and production integrations.
+
+### Azpinx
+
+Digital gaming marketplace serving customers across Azerbaijan.
+
+---
+
+## Technologies
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,nodejs,ts,php,dotnet,docker,redis,mysql,mongodb,linux,git&theme=dark" height="30" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,php,docker,redis,mysql,mongodb,linux,git&theme=dark" />
 </p>
 
+### Security
+
 <p>
-  <img src="https://img.shields.io/badge/LLDB-0f172a?style=flat-square&logo=llvm&logoColor=white" alt="LLDB" />
-  <img src="https://img.shields.io/badge/Frida-7c3aed?style=flat-square&logo=framer&logoColor=white" alt="Frida" />
-  <img src="https://img.shields.io/badge/Clang%2FLLVM-334155?style=flat-square&logo=llvm&logoColor=white" alt="Clang LLVM" />
-  <img src="https://img.shields.io/badge/Protocol_Analysis-0e7490?style=flat-square&logo=wireshark&logoColor=white" alt="Protocol Analysis" />
+  <img src="https://img.shields.io/badge/LLDB-black?style=flat-square&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Clang%2FLLVM-black?style=flat-square&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protocol%20Analysis-black?style=flat-square" />
 </p>
+
+---
+
+## Focus Areas
+
+- Application Security
+- Backend Engineering
+- Distributed Systems
+- Reverse Engineering
+- Protocol Analysis
+- Messaging Infrastructure
+- AI Infrastructure
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/aliyabuz
+- Email: aliyabuz30@gmail.com
+```
