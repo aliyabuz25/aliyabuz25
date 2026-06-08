@@ -1,23 +1,17 @@
 # Ali Yabuz
 
-### Security Researcher • Backend Engineer
+Security Researcher • Backend Engineer
 
-**Apple Security Credit — CVE-2024-0258**
+Apple Security Credit — **CVE-2024-0258**
 
-Credited by Apple for reporting a vulnerability in **libxpc** that could allow arbitrary code execution outside an application's sandbox or with elevated privileges.
+Credited by Apple for reporting a vulnerability in **libxpc**.
 
 * CVE: https://www.cve.org/CVERecord?id=CVE-2024-0258
-* Apple Security Advisory: https://support.apple.com/en-us/120893
-
----
-
-## About
+* Apple Advisory: https://support.apple.com/en-us/120893
 
 Backend engineer and security researcher focused on distributed systems, backend infrastructure, reverse engineering, and security research.
 
----
-
-## Technologies
+## Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-111827?style=flat-square\&logo=csharp\&logoColor=white)
@@ -33,15 +27,12 @@ Backend engineer and security researcher focused on distributed systems, backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux\&logoColor=white)
 
----
+## Activity
+
+![GitHub Contributions](https://ghchart.rshah.org/aliyabuz25)
 
 ## Links
 
 * GitHub: https://github.com/aliyabuz25
 * LinkedIn: https://linkedin.com/in/aliyabuz
 * Email: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
-
----
-## Contributions
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aliyabuz25&hide_border=true" />
