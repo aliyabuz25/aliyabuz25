@@ -40,3 +40,8 @@ Backend engineer and security researcher focused on distributed systems, backend
 * GitHub: https://github.com/aliyabuz25
 * LinkedIn: https://linkedin.com/in/aliyabuz
 * Email: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
+
+---
+## Contributions
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aliyabuz25&hide_border=true" />
