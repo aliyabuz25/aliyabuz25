@@ -1,38 +1,36 @@
 # Ali Yabuz
 
-Security Researcher • Backend Engineer
+Backend Engineer • Security Researcher
 
-Apple Security Credit — **CVE-2024-0258**
+Backend engineer specializing in distributed systems, operating system internals, reverse engineering, and security research.
 
-Credited by Apple for reporting a vulnerability in **libxpc**.
+## Recognition
 
-* CVE: https://www.cve.org/CVERecord?id=CVE-2024-0258
-* Apple Advisory: https://support.apple.com/en-us/120893
+<p align="left">
+  <a href="https://www.cve.org/CVERecord?id=CVE-2024-0258">
+    <img src="https://img.shields.io/badge/CVE-2024--0258-B31B1B?style=for-the-badge&label=CVE" alt="CVE-2024-0258">
+  </a>
+  <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-0258">
+    <img src="https://img.shields.io/badge/NVD-National%20Vulnerability%20Database-005EA2?style=for-the-badge" alt="NVD">
+  </a>
+  <a href="https://support.apple.com/en-us/120893">
+    <img src="https://img.shields.io/badge/Apple-Security%20Credit-555555?style=for-the-badge" alt="Apple Security Credit">
+  </a>
+</p>
 
-Backend engineer and security researcher focused on distributed systems, backend infrastructure, reverse engineering, and security research.
+Officially credited by Apple for reporting **CVE-2024-0258**, a vulnerability in **libxpc** affecting Apple platforms. The vulnerability is publicly documented by the CVE Program and indexed in the National Vulnerability Database (NVD). :contentReference[oaicite:0]{index=0}
 
-## Stack
+## Technologies
 
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-111827?style=flat-square\&logo=csharp\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square\&logo=javascript\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square\&logo=php\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,php,nodejs,dotnet,docker,redis,mysql,mongodb,linux" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-111827?style=flat-square\&logo=dotnet\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square\&logo=docker\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-111827?style=flat-square\&logo=redis\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square\&logo=linux\&logoColor=white)
+## Contact
 
-## Activity
-
-![GitHub Contributions](https://ghchart.rshah.org/aliyabuz25)
-
-## Links
-
-* GitHub: https://github.com/aliyabuz25
-* LinkedIn: https://linkedin.com/in/aliyabuz
-* Email: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
+- CVE Record: https://www.cve.org/CVERecord?id=CVE-2024-0258
+- NVD: https://nvd.nist.gov/vuln/detail/CVE-2024-0258
+- Apple Security Advisory: https://support.apple.com/en-us/120893
+- GitHub: https://github.com/aliyabuz25
+- LinkedIn: https://linkedin.com/in/aliyabuz
+- Email: aliyabuz30@gmail.com
