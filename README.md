@@ -4,8 +4,6 @@
 
 Backend Engineer · Security Researcher
 
-Operating System Internals • Reverse Engineering • Vulnerability Research
-
 </div>
 
 ---
@@ -23,25 +21,8 @@ Operating System Internals • Reverse Engineering • Vulnerability Research
 
 ---
 
-## Research
-
-- Apple Platform Security
-- Operating System Internals
-- Reverse Engineering
-- Vulnerability Research
-
----
-
 ## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,swift,cs,ts,js,nodejs,dotnet,docker,redis,mysql,mongodb,linux,git" />
 </p>
-
----
-
-## Contact
-
-- GitHub — https://github.com/aliyabuz25
-- LinkedIn — https://linkedin.com/in/aliyabuz
-- Email — aliyabuz30@gmail.com
