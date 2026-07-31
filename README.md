@@ -4,7 +4,7 @@
 
 Backend Engineer · Security Researcher
 
-Operating System Internals • Reverse Engineering • Distributed Systems • Vulnerability Research
+Operating System Internals • Reverse Engineering • Vulnerability Research
 
 </div>
 
@@ -12,7 +12,8 @@ Operating System Internals • Reverse Engineering • Distributed Systems • V
 
 ## Recognition
 
-Responsible disclosure credited by **Apple** for **CVE-2024-0258** affecting **libxpc**.
+- Apple Product Security — Security Credits (CVE-2024-0258)
+- Ubisoft Security — Security Reports Validated
 
 | Reference | |
 |-----------|---|
@@ -22,27 +23,16 @@ Responsible disclosure credited by **Apple** for **CVE-2024-0258** affecting **l
 
 ---
 
-## Featured Research
+## Research
 
-- Apple Security Research
-- CoreAudio Research
-- Mach & XPC Research
-- macOS Internals
-
----
-
-## Selected Coverage
-
-- Webtekno
-- Technopat
-- ShiftDelete
-- ShiftDelete (EN)
-- Yeni Birlik
-- Siber Bülten
+- Apple Platform Security
+- Operating System Internals
+- Reverse Engineering
+- Vulnerability Research
 
 ---
 
-## Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,swift,cs,ts,js,nodejs,dotnet,docker,redis,mysql,mongodb,linux,git" />
@@ -52,6 +42,6 @@ Responsible disclosure credited by **Apple** for **CVE-2024-0258** affecting **l
 
 ## Contact
 
-- GitHub · https://github.com/aliyabuz25
-- LinkedIn · https://linkedin.com/in/aliyabuz
-- Email · aliyabuz30@gmail.com
+- GitHub — https://github.com/aliyabuz25
+- LinkedIn — https://linkedin.com/in/aliyabuz
+- Email — aliyabuz30@gmail.com
