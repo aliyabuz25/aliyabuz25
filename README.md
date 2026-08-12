@@ -35,7 +35,7 @@ I build **native macOS applications** and full-stack platforms with a focus on p
 | [**CabBackend**](https://github.com/aliyabuz25/CabBackend) | Ride-sharing backend with real-time telemetry & Socket.io |
 | [**HumaneAI**](https://github.com/aliyabuz25/HumaneAI) | Self-hosted AI assistant with Docker deployment |
 | [**CVE-2024-0258**](https://github.com/aliyabuz25/CVE-2024-0258) | Apple libxpc security research & documentation |
-| [**forsaj-club-offroad**](https://github.com/aliyabuz25/forsaj-club-offroad) | Full-stack CMS for Forsaj Club Offroad Azerbaijan |
+
 
 ## Tech Stack
 
