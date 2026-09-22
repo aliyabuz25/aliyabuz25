@@ -4,7 +4,11 @@
 
 **Software Engineer · Security Research**
 
-Istanbul · Independent
+Istanbul
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=swift,ts,js,cpp,python,nodejs,postgres,redis,docker" />
 
 </div>
 
@@ -13,10 +17,6 @@ Istanbul · Independent
 Software engineer focused on security research, backend systems, and product development.
 
 I enjoy building software, researching complex systems, and understanding how things work under the hood.
-
-## Technologies
-
-`Swift` · `TypeScript` · `JavaScript` · `C++` · `Python` · `Node.js` · `PostgreSQL` · `Redis` · `Docker`
 
 ---
 
