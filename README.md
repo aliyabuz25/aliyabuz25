@@ -2,7 +2,7 @@
 
 ### Ali Yabuz
 
-**Software Engineer · Security Research**
+**Software Engineer · Security Research · Game Development**
 
 Istanbul
 
@@ -16,7 +16,9 @@ Istanbul
 
 Software engineer focused on security research, backend systems, and product development.
 
-I enjoy building software, researching complex systems, and understanding how things work under the hood.
+Founder of **RedWhaleGames** and developer of **Cinnet:I**, a first-person psychological horror game released on Steam in 2021.
+
+Apple security researcher credited for **CVE-2024-0258**, a libxpc vulnerability affecting Apple platforms.
 
 ---
 
