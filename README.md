@@ -12,9 +12,9 @@ Istanbul
 
 <br><br>
 
-[![HubMSG](https://img.shields.io/badge/HubMSG-Founder-111111?style=flat-square)](https://hubmsg.octotech.az/)
-[![RedWhaleGames](https://img.shields.io/badge/RedWhaleGames-Founder-111111?style=flat-square)](https://github.com/RedWhaleGames)
-[![Apple Security](https://img.shields.io/badge/Apple%20Security-CVE--2024--0258-111111?style=flat-square)](https://support.apple.com/tr-tr/120895)
+[![HubMSG](https://img.shields.io/badge/HubMSG-Founder-111111?style=flat-square)](#ventures)
+[![RedWhaleGames](https://img.shields.io/badge/RedWhaleGames-Founder-111111?style=flat-square)](#ventures)
+[![Apple Security](https://img.shields.io/badge/Apple%20Security-CVE--2024--0258-111111?style=flat-square)](#security-research)
 
 </div>
 
@@ -22,7 +22,7 @@ Istanbul
 
 ### About
 
-Software engineer and founder working across **software development, security research, and product engineering**.
+Software engineer and founder working across **software development, security research, reverse engineering, and product engineering**.
 
 Building things that probably didn't need another rewrite.
 
@@ -35,9 +35,19 @@ Building things that probably didn't need another rewrite.
 
 ### Security Research
 
-**Apple Product Security** — Credited for **CVE-2024-0258**, a libxpc vulnerability.
+**Apple Product Security** — Credited for **CVE-2024-0258**, a libxpc security vulnerability.
 
-**Ubisoft Security** — Security research acknowledged through responsible disclosure.
+**Security Research & Malware Analysis** — Earlier security research included analysis of malware and malicious software, including research associated with the **AlixSpy** sample.
+
+### Selected Press
+
+[Apple security research — Technopat](https://www.technopat.net/2026/06/15/iphone-mac-etkileyen-acigi-turk-yazilimci-buldu/)
+
+[Apple security research — ICT Media](https://ictmedia.com.tr/)
+
+[AlixSpy analysis — BleepingComputer](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-23rd-2017-a-fricken-1-million-dollar-ransom-payment/)
+
+[AlixSpy analysis — Tripwire](https://www.tripwire.com/state-of-security/june-2017-the-month-in-ransomware)
 
 ---
 
