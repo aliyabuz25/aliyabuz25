@@ -14,17 +14,28 @@ Istanbul
 
 [![HubMSG](https://img.shields.io/badge/HubMSG-Founder-111111?style=flat-square)](https://hubmsg.octotech.az/)
 [![RedWhaleGames](https://img.shields.io/badge/RedWhaleGames-Founder-111111?style=flat-square)](https://github.com/RedWhaleGames)
-[![Apple Security](https://img.shields.io/badge/Apple%20Security-CVE--2024--0258-111111?style=flat-square)](https://support.apple.com/en-al/120893)
+[![Apple Security](https://img.shields.io/badge/Apple%20Security-CVE--2024--0258-111111?style=flat-square)](https://support.apple.com/tr-tr/120895)
 
 </div>
 
 ---
 
-Building software, startups, and security research.
+### About
 
-**HubMSG** — WhatsApp messaging & automation
-**RedWhaleGames** — Game development
-**Apple Security** — CVE-2024-0258
+Software engineer and founder working across **software development, security research, and product engineering**.
+
+### Ventures
+
+**HubMSG** — Founded a WhatsApp messaging & automation platform for businesses.
+*Product sunset.*
+
+**RedWhaleGames** — Founded an independent game studio and developed **Cinnet:I**, released on Steam in 2021.
+
+### Security Research
+
+**Apple Product Security** — Credited for **CVE-2024-0258**, a libxpc vulnerability.
+
+**Ubisoft Security** — Security research on the Ubisoft macOS client, acknowledged through responsible disclosure.
 
 ---
 
