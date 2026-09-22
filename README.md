@@ -6,8 +6,6 @@
 
 Istanbul · Independent
 
-[![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square\&logo=swift\&logoColor=white)](https://swift.org)
-
 </div>
 
 ---
@@ -16,9 +14,9 @@ Software engineer focused on security research, backend systems, and product dev
 
 I enjoy building software, researching complex systems, and understanding how things work under the hood.
 
-## Stack
+## Technologies
 
-`Swift` · `SwiftUI` · `C++` · `TypeScript` · `Node.js` · `Python` · `Docker`
+`Swift` · `TypeScript` · `JavaScript` · `C++` · `Python` · `Node.js` · `PostgreSQL` · `Redis` · `Docker`
 
 ---
 
