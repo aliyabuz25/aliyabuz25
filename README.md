@@ -1,8 +1,8 @@
 <div align="center">
 
-### Ali Yabuz
+# Ali Yabuz
 
-**Software Engineer · Security Research · Founder**
+**Software Engineer · Security Researcher · Founder**
 
 Istanbul
 
@@ -10,30 +10,21 @@ Istanbul
 
 <img src="https://skillicons.dev/icons?i=swift,ts,js,cpp,python,nodejs,postgres,redis,docker" />
 
+<br><br>
+
+[![HubMSG](https://img.shields.io/badge/HubMSG-Founder-111111?style=flat-square)](https://hubmsg.octotech.az/)
+[![RedWhaleGames](https://img.shields.io/badge/RedWhaleGames-Founder-111111?style=flat-square)](https://github.com/RedWhaleGames)
+[![Apple Security](https://img.shields.io/badge/Apple%20Security-CVE--2024--0258-111111?style=flat-square)](https://support.apple.com/en-al/120893)
+
 </div>
 
 ---
 
-### Building
+Building software, startups, and security research.
 
-**[HubMSG](https://hubmsg.octotech.az/)**
-Smart WhatsApp messaging & automation platform for businesses.
-**Founder**
-
-**[RedWhaleGames](https://github.com/RedWhaleGames)**
-Independent game studio behind **Cinnet:I**, a first-person psychological horror game released on Steam in 2021.
-**Founder · Developer**
-
-### Security Research
-
-**Apple Security Recognition — CVE-2024-0258**
-Security research credited by Apple involving **libxpc** and sandbox security.
-
----
-
-Software engineer focused on security research, backend systems, and product development.
-
-I enjoy building products, researching complex systems, and understanding how things work under the hood.
+**HubMSG** — WhatsApp messaging & automation
+**RedWhaleGames** — Game development
+**Apple Security** — CVE-2024-0258
 
 ---
 
