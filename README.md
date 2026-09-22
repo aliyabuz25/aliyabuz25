@@ -24,6 +24,8 @@ Istanbul
 
 Software engineer and founder working across **software development, security research, and product engineering**.
 
+Building things that probably didn't need another rewrite.
+
 ### Ventures
 
 **HubMSG** — Founded a WhatsApp messaging & automation platform for businesses.
@@ -35,11 +37,15 @@ Software engineer and founder working across **software development, security re
 
 **Apple Product Security** — Credited for **CVE-2024-0258**, a libxpc vulnerability.
 
-**Ubisoft Security** — Security research on the Ubisoft macOS client, acknowledged through responsible disclosure.
+**Ubisoft Security** — Security research acknowledged through responsible disclosure.
 
 ---
 
 <div align="center">
+
+*Build it. Break it. Understand it. Build it again.*
+
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/@aliyabuz25-181717?style=flat-square\&logo=github)](https://github.com/aliyabuz25)
 
