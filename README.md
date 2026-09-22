@@ -2,7 +2,7 @@
 
 ### Ali Yabuz
 
-**Software Engineer · Security Research · Game Development**
+**Software Engineer · Security Research · Founder**
 
 Istanbul
 
@@ -14,11 +14,26 @@ Istanbul
 
 ---
 
+### Building
+
+**[HubMSG](https://hubmsg.octotech.az/)**
+Smart WhatsApp messaging & automation platform for businesses.
+**Founder**
+
+**[RedWhaleGames](https://github.com/RedWhaleGames)**
+Independent game studio behind **Cinnet:I**, a first-person psychological horror game released on Steam in 2021.
+**Founder · Developer**
+
+### Security Research
+
+**Apple Security Recognition — CVE-2024-0258**
+Security research credited by Apple involving **libxpc** and sandbox security.
+
+---
+
 Software engineer focused on security research, backend systems, and product development.
 
-Founder of **RedWhaleGames** and developer of **Cinnet:I**, a first-person psychological horror game released on Steam in 2021.
-
-Apple security researcher credited for **CVE-2024-0258**, a libxpc vulnerability affecting Apple platforms.
+I enjoy building products, researching complex systems, and understanding how things work under the hood.
 
 ---
 
